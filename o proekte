@@ -1,1 +1,12 @@
-
+<html>
+  <body>
+    <h3>Наш проект: "Железный распределитель". Цели:</h3>
+    <ul>
+      <li>Написать телеграм бота по рассылке о выездах корреспондентам</li>
+      <li>Научить бота рассылке</li>
+      <li>Добавить корреспондентов в тг бот</li>
+    </ul>
+    <h3>Видеовизитка</h3>
+    <iframe src="https://drive.google.com/file/d/1wFSBYIfofxGrrlYfYRR8DGbgfaeFvo-O/preview" allowfullscreen></iframe>
+  </body>
+</html>
