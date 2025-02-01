@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <style>
+    h1{
+      text-align: center;
+      color: White;
+    }
+    h2{
+      text-align: center;
+      color: MidnightBlue;
+    }
+    h3{
+      text-align: center;
+      color: MidnightBlue;
+    }
+    ul{
+      text-align: center;
+      color: Yellow;
+    }
+    body {background-color: Black;}
+    </style>
+  </head>
+  <body>
+    
+  </body>
+</html>
